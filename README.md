@@ -4,9 +4,7 @@
 
 "Prayer Buddy" in essense is a to do list, so it operates on two main screens. The List View and the Edit View. It requires stored data in a model to remember the data that is inputted into the application
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo](https://youtu.be/Nx_xd9AoTCM)
 
 # Development Environment
 
